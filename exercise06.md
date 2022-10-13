@@ -35,8 +35,11 @@
         git status
 
 10. Which of the steps could be omitted?
+-m  and add
 
 11. Why might it be a bad idea to omit them?
+commits should always have a message so you know what you editted 
+add should always be added so that the commit is intentional and not just automatically staged
 
 12. Repeat the above steps to add a new file with the name `vegetables.txt`
 
