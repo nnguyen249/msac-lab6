@@ -1,0 +1,5 @@
+dishwasher
+dryer
+toaster
+blender
+washer

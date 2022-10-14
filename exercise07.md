@@ -21,6 +21,7 @@
         git status
 
 5. Can you commit both of the changed files in a single commit?
+Yes with adding both files or git add --all first then committing
 
 6. After you do so, check that you have a clean working directory by running `git status`, and pasting the output here
 
