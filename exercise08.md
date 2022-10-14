@@ -44,5 +44,6 @@
 14. Does the new untracked file show up in git diff?
 
         git diff
+        no
 
 15. Add and commit the new file
