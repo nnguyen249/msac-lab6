@@ -15,6 +15,7 @@
 6. Does the following command return anything?
 
         git diff --staged
+        no
 
 7. Add one of your changed files to the index
 
