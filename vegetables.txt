@@ -1,2 +1,6 @@
 carrot
 celery
+broccoli
+lettuce
+spinach
+green bean
