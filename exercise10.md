@@ -25,7 +25,9 @@
 8. What type of object does the parent hash represent?
 
         git cat-file -t <hash>
+        commit
 
 9. Examine the contents of the parent and its tree
 
 10. Do the trees you looked at have any matching hashes listed?
+no?
